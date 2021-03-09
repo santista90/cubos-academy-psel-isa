@@ -1,2 +1,2 @@
 # cubos-academy-psel-isa
-Exercicios  PSEL
+Exercicios referente ao desafio pratico para o Curso de Programação do Zero da Cubos Academy!
